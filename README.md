@@ -5,6 +5,6 @@
 
 API Link:  https://api.quotable.io/random
 
-Live Project: https://github.com/priyanshupandey29/Quote-Generator-App
+Live Project: https://priyanshupandey29.github.io/Quote-Generator-App/
 
 
