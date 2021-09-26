@@ -4,6 +4,7 @@
 * This website uses an quote api through which we fetch the data from the api and displays it to our web app.
 
 API Link:  https://api.quotable.io/random
+
 Live Project: https://github.com/priyanshupandey29/Quote-Generator-App
 
 
